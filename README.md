@@ -1,5 +1,8 @@
 # 水位感測互動燈光裝置
 
+## 演示影片
+[點此觀看專案演示影片](https://drive.google.com/file/d/1IBpNDDEcgsneKjXvVRidXe7uoDl0eJBa/view?usp=sharing)
+
 ## 創作構想說明
 這是一個結合水位感測與燈光互動的自動控制裝置。透過超音波感測器即時監測水位的變化，並以 LED 燈光的亮度變化來視覺化呈現水位狀態，同時透過電磁閥自動控制水流，實現一個智慧化的水位控制系統。
 
